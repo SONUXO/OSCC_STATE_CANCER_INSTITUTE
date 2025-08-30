@@ -1,7 +1,5 @@
 # Oral Squamous Cell Carcinoma:
-
 This project demonstrates an how to detect OSCC with various CNN model, in addition to that we have proposed a semgentation model which to detect and segment cancerous cell from clinical slides.
----
 
 ## Publication details:
 [Link](https://link.springer.com/chapter/10.1007/978-981-97-3604-1_4)
