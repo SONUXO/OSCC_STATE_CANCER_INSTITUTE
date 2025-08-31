@@ -22,7 +22,7 @@ Stages contain:
 ## Workflow of proposed segmentation method
 Stages contain:
 1. **H&E stained images collection**
-2. **Feature Extracttion using Gabor, Canny Edge,Scharr,Gaussian fillter etc**
+2. **Feature Extracttion using Gabor, Canny Edge,Scharr,Gaussian fillter**
 3. **Fine tunning Random Forest model**
 4. **Generating Segmentated Mask**
 ---
